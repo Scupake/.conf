@@ -1,5 +1,5 @@
 # Scupake's .conf files!
 Just some random .conf files
 
-[ ] Actually upload the files.
+- [X] Actually upload the files.
 
