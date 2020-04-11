@@ -1,5 +1,11 @@
 # Scupake's .conf files!
 Just some random .conf files
 
-- [ ] Actually upload the files.
+#TO DO!
+-  [X] Actually upload the files.
+-  [ ] Add screenshots.
+
+#Screenshots
+Pretend like there are screenshots here.
+
 
