@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/scupake/wallpapers-master/0042.jpg' 
