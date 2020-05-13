@@ -1,11 +1,12 @@
 # Scupake's .conf files!
 Just some random .conf files
 
-# TO DO!
--  [X] Actually upload the files.
--  [ ] Add screenshots.
-
 # Screenshots
 Pretend like there are screenshots here.
+<img src="/%40assets/empty-with-dunst.jpg" alt="Preview my desktop:" align="left" width="36%">
 
+
+# TO DO!
+-  [ ] Actually upload the files.
+-  [ ] Add screenshots.
 
