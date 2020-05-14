@@ -2,8 +2,7 @@
 Just some random .conf files
 
 # Screenshots
-Pretend like there are screenshots here.
-<img src="/%40assets/empty-with-dunst.jpg" alt="Preview my desktop:" align="left" width="36%">
+<img src="/%40assets/empty-with-dunst.jpg" alt="Preview my desktop:" align="left" width="100%">
 
 
 # TO DO!
